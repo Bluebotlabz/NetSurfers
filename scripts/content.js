@@ -6,9 +6,6 @@ const videoLinks = [
   ["L_fcrOyoWZ8", 3600],
   ["_bwtEtYQwgc", 39600],
 
-  // Reddit stories
-  ["kiQ2dTfRhpE", 7200],
-
   // Family guy
   ["pt_k_HNz1DE", 10500]
 ]
