@@ -7,7 +7,9 @@ const videoLinks = [
   ["_bwtEtYQwgc", 39600],
 
   // Family guy
-  ["pt_k_HNz1DE", 10500]
+  ["pt_k_HNz1DE", 10500],
+  ["y2FTMeea4sY", 7200],
+  ["-ncnX0zlrQM", 18000]
 ]
 
 // `document.querySelector` may return null if the selector doesn't match anything.
